@@ -1,0 +1,70 @@
+{
+    "Random Forest": {
+        "best_params": {
+            "classifier__bootstrap": true,
+            "classifier__max_depth": 20,
+            "classifier__max_features": "sqrt",
+            "classifier__min_samples_leaf": 4,
+            "classifier__min_samples_split": 10,
+            "classifier__n_estimators": 200
+        },
+        "best_cross_val_accuracy": 0.6405923344947734,
+        "test_accuracy": 0.6045197740112994
+    },
+    "Logistic Regression": {
+        "best_params": {
+            "classifier__C": 0.1,
+            "classifier__max_iter": 100,
+            "classifier__penalty": "l1",
+            "classifier__solver": "saga",
+            "classifier__tol": 0.0001
+        },
+        "best_cross_val_accuracy": 0.6115563298490129,
+        "test_accuracy": 0.5819209039548022
+    },
+    "Naive Bayes": {
+        "best_params": {
+            "classifier__var_smoothing": 1e-09
+        },
+        "best_cross_val_accuracy": 0.6065040650406504,
+        "test_accuracy": 0.655367231638418
+    },
+    "LDA": {
+        "best_params": {
+            "classifier__shrinkage": 0.7777777777777777,
+            "classifier__solver": "lsqr"
+        },
+        "best_cross_val_accuracy": 0.5844947735191639,
+        "test_accuracy": 0.5819209039548022
+    },
+    "KNN": {
+        "best_params": {
+            "classifier__metric": "manhattan",
+            "classifier__n_neighbors": 11,
+            "classifier__weights": "uniform"
+        },
+        "best_cross_val_accuracy": 0.5991869918699186,
+        "test_accuracy": 0.5423728813559322
+    },
+    "Gradient Boosting": {
+        "best_params": {
+            "classifier__learning_rate": 0.1,
+            "classifier__max_depth": 3,
+            "classifier__n_estimators": 50,
+            "classifier__subsample": 0.8
+        },
+        "best_cross_val_accuracy": 0.6333914053426247,
+        "test_accuracy": 0.6101694915254238
+    },
+    "XGBoost": {
+        "best_params": {
+            "classifier__colsample_bytree": 0.8,
+            "classifier__learning_rate": 0.2,
+            "classifier__max_depth": 3,
+            "classifier__n_estimators": 50,
+            "classifier__subsample": 0.6
+        },
+        "best_cross_val_accuracy": 0.6213124274099884,
+        "test_accuracy": 0.576271186440678
+    }
+}
