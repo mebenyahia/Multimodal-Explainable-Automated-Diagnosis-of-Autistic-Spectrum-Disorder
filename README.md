@@ -2,7 +2,7 @@
 
 This repository contains the implementation for the **model training** and **data processing** components of the paper titled **"Multimodal Explainable Automated Diagnosis of Autism Spectrum Disorder."**
 
-The research was conducted during a five-month internship at the [Computer Science Research Institute of Toulouse (IRIT)]([URL](https://www.irit.fr/en/home/)), within the [Generalised Information Systems team (SIG)](https://www.irit.fr/en/departement/dep-data-management/sig-team/), 
+The research was conducted during a five-month internship at the [Computer Science Research Institute of Toulouse (IRIT)]([URL](https://www.irit.fr/en/home/), within the [Generalised Information Systems team (SIG)](https://www.irit.fr/en/departement/dep-data-management/sig-team/), 
 and supervised by:
 - **Dr. Moncef Garouani**, whose work specializes in the automatic selection and parametrization of machine learning algorithms, as well as AI explainability.
 - **Dr. Julien Aligon**, who specializes in post-hoc methods for prediction explanation.
