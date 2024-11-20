@@ -10,6 +10,29 @@ and supervised by:
 The research was carried out by **Meryem Ben Yahia**, M.Sc Machine Learning and Data Mining at Université Jean Monnet.
 
 ---
+## The Dataset: Autism Brain Imaging Data Exchange I (ABIDE I) Dataset
+
+The dataset used in our study is from the Autism Brain Imaging Data Exchange I (ABIDE I), a 2012 initiative that involves data contributions from 17 international sites. This dataset includes imaging and phenotypic data collected from a total of 1,112 subjects, composed of both individuals with Autism Spectrum Disorder (ASD) and control participants. 
+
+| Category         | ABIDE I                               |
+|------------------|---------------------------------------|
+| Participants     | 1,112 total (539 ASD, 573 controls)   |
+| Age Range        | 7-64 years (median: 14.7)             |
+| Number of Sites  | 17 international sites                |
+| Imaging Data     | - Resting State Functional MRI         
+|                  | - Structural MRI                      |
+| Phenotypic Data  | - Composite Phenotypic File           |
+|                  | - Phenotypic Data Legend              |
+
+#### Access
+The dataset and its corresponding data legend are open access and can be found at the following links:
+- [Access Link](https://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html)
+- [Data Legend](https://fcon_1000.projects.nitrc.org/indi/abide/ABIDEII_Data_Legend.pdf)
+
+For more detailed information regarding data access, formats, and how to use this dataset, refer to the [official documentation](https://fcon_1000.projects.nitrc.org/indi/abide/).
+
+
+---
 ## Repository Structure
 ```bash
 Multimodal-Explainable-Automated-Diagnosis-of-Autistic-Spectrum-Disorder/
