@@ -11,7 +11,7 @@ The research was carried out by **Meryem Ben Yahia**, M.Sc Machine Learning and 
 
 ---
 ## Repository Structure
-
+```bash
 Multimodal-Explainable-Automated-Diagnosis-of-Autistic-Spectrum-Disorder/
 ├── data/                                   # dataset-related files
 │   ├── 0. measure generator using BASC122.ipynb  # Notebook for generating measures using the BASC122 atlas
@@ -49,7 +49,7 @@ Multimodal-Explainable-Automated-Diagnosis-of-Autistic-Spectrum-Disorder/
 │
 ├── script_fetch_abide.py                   # Script to fetch ABIDE pre-processed CPAC Pipeline
 └── README.md                               # Overview of the project, installation instructions, and usage
-
+```
 ---
 ## Results
 
