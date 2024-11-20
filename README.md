@@ -4,10 +4,10 @@ This repository contains the implementation for the **model training** and **dat
 
 The research was conducted during a five-month internship at the [Computer Science Research Institute of Toulouse (IRIT)](https://www.irit.fr/en/home/), within the [Generalised Information Systems team (SIG)](https://www.irit.fr/en/departement/dep-data-management/sig-team/), 
 and supervised by:
-- **Dr. Moncef Garouani**, whose work specializes in the automatic selection and parametrization of machine learning algorithms, as well as AI explainability.
-  [Google Scholar Link](https://scholar.google.fr/citations?user=4nXi7GAAAAAJ&hl=fr).
-- **Dr. Julien Aligon**, who specializes in post-hoc methods for prediction explanation.
-  [Google Scholar Link](https://scholar.google.fr/citations?user=SL-IYIQAAAAJ&hl=fr).
+- **Dr. Moncef Garouani**, whose work specializes in the automatic selection and parametrization of machine learning algorithms, as well as AI explainability. <br>
+  [Dr. Garouani on Google Scholar](https://scholar.google.fr/citations?user=4nXi7GAAAAAJ&hl=fr).
+- **Dr. Julien Aligon**, who specializes in post-hoc methods for prediction explanation. <br>
+  [Dr. Aligon on Google Scholar](https://scholar.google.fr/citations?user=SL-IYIQAAAAJ&hl=fr).
 
 The research was carried out by **Meryem Ben Yahia**, M.Sc Machine Learning and Data Mining at Université Jean Monnet.
 
