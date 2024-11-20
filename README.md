@@ -53,10 +53,12 @@ Multimodal-Explainable-Automated-Diagnosis-of-Autistic-Spectrum-Disorder/
 ---
 ## Results
 
-- **Mean Accuracy**: 98.64% (±0.86%)
-- **AUC**: 1.00
-- **Recall**: 99%
-- **Precision**: Near-perfect for both ASD and Non-ASD classes.
+| Model      | Total Training Time | Mean Accuracy (5 folds) | Standard Deviation (5 folds) |
+|------------|---------------------|-------------------------|------------------------------|
+| fMRI-input DNN      | 75.19 seconds        | 99.66%                  | 0.42%                        |
+| Multimodal-input DNN | 60.19 seconds        | 98.64%                  | 0.86%                        |
+| Pheno-input DNN      | 23.82 seconds        | 63.55%                  | 2.04%                        |
+
 
 
 ---
