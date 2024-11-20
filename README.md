@@ -21,10 +21,10 @@ The dataset used in our study is from the Autism Brain Imaging Data Exchange I (
 | Participants     | 1,112 total (539 ASD, 573 controls)   |
 | Age Range        | 7-64 years (median: 14.7)             |
 | Number of Sites  | 17 international sites                |
-| Imaging Data     | - Resting State Functional MRI         
-|                  | - Structural MRI                      |
-| Phenotypic Data  | - Composite Phenotypic File           |
-|                  | - Phenotypic Data Legend              |
+| Imaging Data     | Resting State Functional MRI         
+|                  | Structural MRI                      |
+| Phenotypic Data  | Composite Phenotypic File           |
+|                  | Phenotypic Data Legend              |
 
 #### Access
 The dataset and its corresponding data legend are open access and can be found at the following links:
