@@ -47,7 +47,7 @@ Multimodal-Explainable-Automated-Diagnosis-of-Autistic-Spectrum-Disorder/
 ├── notebooks/                              # Jupyter notebooks for analysis and model development
 │   ├── 1. Exploratory Data Analysis on ABIDE and Phenotypic Feature Selection.ipynb  
 │   ├── 2. Test of Classical Models on Phenotypic Features.ipynb 
-│   └── Neural Networks (fMRI, Multimodal, Pheno)/  # Specialized directory for neural network models
+│   └── Neural Networks (fMRI, Multimodal, Pheno)/  # Directory for eval of neural network models
 │       ├── 1. Neural Network on RFE fMRI data.ipynb  # Neural network model training on fMRI data
 │       ├── 2. Neural Network on RFE Multimodal data.ipynb  # Neural network model training on multimodal data
 │       ├── 3. Neural Network on RFE Phenotypic data.ipynb  # Neural network model training on phenotypic data
@@ -74,7 +74,7 @@ Multimodal-Explainable-Automated-Diagnosis-of-Autistic-Spectrum-Disorder/
 │   └── model_tuning.py                     # Hyperparameter tuning for the model
 │
 ├── script_fetch_abide.py                   # Script to fetch ABIDE pre-processed CPAC Pipeline
-└── README.md                               # Overview of the project, installation instructions, and usage
+└── README.md                               # This overview here :)
 ```
 ---
 ## Results
