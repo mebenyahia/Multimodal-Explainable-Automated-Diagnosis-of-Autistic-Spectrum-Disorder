@@ -1,6 +1,7 @@
 # Multimodal Explainable Automated Diagnosis of Autism Spectrum Disorder
 
 This repository contains the implementation for the **model training** and **data processing** components of the paper titled **"Multimodal Explainable Automated Diagnosis of Autism Spectrum Disorder."**
+
 The paper is available here:  
 [https://www.esann.org/sites/default/files/proceedings/2025/ES2025-72.pdf](https://www.esann.org/sites/default/files/proceedings/2025/ES2025-72.pdf)
 
