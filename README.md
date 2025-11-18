@@ -33,6 +33,12 @@ The dataset and its corresponding data legend are open access and can be found a
 
 For more detailed information regarding data access, formats, and how to use this dataset, refer to the [official documentation](https://fcon_1000.projects.nitrc.org/indi/abide/).
 
+---
+## Framework Overview
+
+<p align="center">
+  <img src="framework.png" alt="Overview of the multimodal explainable ASD diagnosis framework" width="850">
+</p>
 
 ---
 ## Repository Structure
